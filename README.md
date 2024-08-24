@@ -19,4 +19,3 @@ This repository contains the codebase for a **Flashcard SaaS Platform** designed
 - **Backend & Realtime Database:** Firebase
 - **AI Integration:** OpenAI API
 - **Payment Processing:** Stripe
-- **Deployment:** [Specify your deployment platform, e.g., Vercel, Firebase Hosting]
